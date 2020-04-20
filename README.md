@@ -1,2 +1,2 @@
 # springcloud-config
-study of spring cloud config
+spring cloud config
